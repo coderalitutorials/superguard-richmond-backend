@@ -16,9 +16,9 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      // "https://primeshieldwandsworth-frontend.vercel.app",
-      // "https://primeshieldwandsworth.uk",
-      // "https://www.primeshieldwandsworth.uk",
+      "https://primeshield-richmond-frontend.vercel.app/",
+      "https://primeshieldrichmond.uk",
+      "https://www.primeshieldrichmond.uk",
     ],
     credentials: true,
   })
